@@ -1,0 +1,17 @@
+# Media outputs
+*.jpeg
+*.jpg
+*.png
+*.mp4
+
+# Data
+sequence/
+predictions.pickle
+Joshi_Vartak/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+uv.lock
